@@ -1,0 +1,7 @@
+# Private keys and WireGuard state
+data/
+.env.prod
+
+# Editor
+.vscode/
+*.swp
